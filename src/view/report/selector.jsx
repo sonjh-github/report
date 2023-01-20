@@ -1,8 +1,7 @@
 import { useState } from 'react';
 import { ScrollMenu } from 'react-horizontal-scrolling-menu';
-import { LeftArrow } from './arrow.jsx'
 import pdfView from './pdfView.jsx'
-import { Document, Page, pdfjs } from 'react-pdf';
+import { pdfjs } from 'react-pdf';
 import './report.css'
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
