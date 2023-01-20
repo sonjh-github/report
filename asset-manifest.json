@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sonjh-github/temp_report/static/css/main.dea17243.css",
-    "main.js": "/sonjh-github/temp_report/static/js/main.c7059a4d.js",
-    "static/js/787.e4a95ed6.chunk.js": "/sonjh-github/temp_report/static/js/787.e4a95ed6.chunk.js",
-    "index.html": "/sonjh-github/temp_report/index.html",
-    "main.dea17243.css.map": "/sonjh-github/temp_report/static/css/main.dea17243.css.map",
-    "main.c7059a4d.js.map": "/sonjh-github/temp_report/static/js/main.c7059a4d.js.map",
-    "787.e4a95ed6.chunk.js.map": "/sonjh-github/temp_report/static/js/787.e4a95ed6.chunk.js.map"
+    "main.css": "/report/static/css/main.dea17243.css",
+    "main.js": "/report/static/js/main.c3ed976e.js",
+    "static/js/787.e4a95ed6.chunk.js": "/report/static/js/787.e4a95ed6.chunk.js",
+    "index.html": "/report/index.html",
+    "main.dea17243.css.map": "/report/static/css/main.dea17243.css.map",
+    "main.c3ed976e.js.map": "/report/static/js/main.c3ed976e.js.map",
+    "787.e4a95ed6.chunk.js.map": "/report/static/js/787.e4a95ed6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dea17243.css",
-    "static/js/main.c7059a4d.js"
+    "static/js/main.c3ed976e.js"
   ]
 }
